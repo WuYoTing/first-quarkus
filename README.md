@@ -1,4 +1,4 @@
-# first-quarkus
+# My First Quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
